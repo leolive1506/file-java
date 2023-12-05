@@ -3,7 +3,8 @@ public class App {
         // ReadFileTxt.main();
         // FileReaderAndBufferedReader.main();
         // FileWriterAndBufferedWriter.main();
-        ManipulatingFolders.main();
+        // ManipulatingFolders.main();
+        InfoDirectoryPath.main();
     }
 }
 
