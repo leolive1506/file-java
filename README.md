@@ -15,3 +15,14 @@ br = new BufferedReader(fr);
 # Try-with-resources
 - é um bloco try que declara um ou mais recursos e garante qwue esses serão fechados ao final do bloco
 - disponivel java 7+
+
+# FileWriter
+- stream de escrita de caracteres em arquivos
+- formas de criar
+```java
+// cria se não existe / recria se existe
+new FileWriter(path);
+// acrescente ao arquivo existente
+new FileWriter(path, true);
+```
+# BufferedWriter (trata arquivos mais rapido pelo buffer)
