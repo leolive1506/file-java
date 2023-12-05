@@ -4,7 +4,8 @@ public class App {
         // FileReaderAndBufferedReader.main();
         // FileWriterAndBufferedWriter.main();
         // ManipulatingFolders.main();
-        InfoDirectoryPath.main();
+        // InfoDirectoryPath.main();
+        (new Ex()).main();
     }
 }
 
