@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class ReadFile {
+public class ReadFileTxt {
   public static void main() {
     File file = new File("../in.txt");
     Scanner sc = null;
